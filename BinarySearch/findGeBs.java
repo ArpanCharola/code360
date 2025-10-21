@@ -1,3 +1,4 @@
+package BinarySearch;
 class findGeBs {
     public static void main(String[] args) {
         findGeBs sol = new findGeBs();

@@ -1,5 +1,5 @@
 // find the position of an element in an infinite sorted array(BS), gfg question
-//package BinarySearch;
+package BinarySearch;
 
 class infiniteArray{
 
